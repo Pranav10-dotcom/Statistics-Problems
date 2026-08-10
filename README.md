@@ -1,2 +1,2 @@
 # Statistics-Python-Coding-Problems
-This is the coding problem to get familiar with the real world data analysis.
+Python implementations of Statistics Unit 1 concepts including descriptive statistics, sampling, correlation, and regression.
